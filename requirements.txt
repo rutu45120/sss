@@ -1,0 +1,10 @@
+transformers
+diffusers
+accelerate
+gradio
+torch
+torchvision
+sentencepiece
+pdfplumber
+fastapi
+uvicorn
